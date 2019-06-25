@@ -14,6 +14,42 @@ h1 {color:blue; font-size: 12px;}
 }
 
 .halfrow {
-  backround-color: #586470;
-  font-color: White;
+  background-color: #586470;
+  color: White;
+  margin: 40px;
+  padding: 20px;
+  text-align: center;
+}
+
+.color{
+  height:25vh;
+  border: 1px dashed black;
+}
+
+#color1{
+  background-color: #E5654A
+}
+
+#color2{
+  background-color: #8D5947
+}
+
+#color3{
+  background-color: #17191B
+}
+
+#color4{
+  background-color: #586470
+}
+
+#color5{
+  background-color: #A59C92
+}
+
+#pickacolor {
+  height: 60vh;
+  width: 100%;
+  padding-top: 30vh;
+  text-align: center;
+
 }
