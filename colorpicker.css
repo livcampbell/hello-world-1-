@@ -1,0 +1,7 @@
+h1 {color:blue; font-size: 12px;}
+
+#coverimage {
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+}
