@@ -12,3 +12,8 @@ h1 {color:blue; font-size: 12px;}
   font-family: '#586470';
   font-weight: bold;
 }
+
+.halfrow {
+  backround-color: #586470;
+  font-color: White;
+}
