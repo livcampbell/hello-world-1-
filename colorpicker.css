@@ -5,3 +5,10 @@ h1 {color:blue; font-size: 12px;}
   height: 90vh;
   object-fit: cover;
 }
+
+#title {
+  font-size: 4em;
+  color: #b89041;
+  font-family: '#586470';
+  font-weight: bold;
+}
